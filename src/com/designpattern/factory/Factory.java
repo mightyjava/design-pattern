@@ -1,8 +1,8 @@
-package com.designpattern;
+package com.designpattern.factory;
 
 import java.util.Scanner;
 
-public class FactoryDesignPattern {
+public class Factory {
     public static void main(String[] args) {
         System.out.println("Factory Design Pattern");
         System.out.print("Enter Animal : ");
